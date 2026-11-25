@@ -1,0 +1,5 @@
+streamlit>=1.60
+pandas>=2.0
+numpy>=2.0
+# Pinned: the saved models in models/ are pickled with this exact version.
+scikit-learn==1.9.1

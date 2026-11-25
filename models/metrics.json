@@ -1,0 +1,32 @@
+{
+  "car": {
+    "rows": 6921,
+    "test_rows": 1385,
+    "ml_test": {
+      "mae": 76683,
+      "median_ape_pct": 11.9,
+      "r2": 0.868
+    }
+  },
+  "two_wheeler": {
+    "rows": 1055,
+    "test_rows": 211,
+    "ml_test": {
+      "mae": 10426,
+      "median_ape_pct": 19.1,
+      "r2": 0.886
+    },
+    "comparison_rows_with_original_price": 133,
+    "ml_test_same_rows": {
+      "mae": 9205,
+      "median_ape_pct": 14.2,
+      "r2": 0.911
+    },
+    "rule_based_same_rows": {
+      "mae": 11062,
+      "median_ape_pct": 20.5,
+      "r2": 0.867
+    }
+  },
+  "sklearn_version": "1.9.1"
+}

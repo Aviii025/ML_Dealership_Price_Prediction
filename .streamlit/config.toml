@@ -1,0 +1,24 @@
+# Palette shared with the footer (src/footer.py): blue card, black ink, warm off-white page.
+[theme]
+base = "light"
+primaryColor = "#4B6BF5"
+backgroundColor = "#FCFBF7"
+secondaryBackgroundColor = "#F3F1EA"
+textColor = "#0B0B0B"
+linkColor = "#2F4FD8"
+borderColor = "#E4E1D8"
+showWidgetBorder = true
+baseRadius = "14px"
+buttonRadius = "999px"
+font = "Figtree:https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap"
+headingFontWeights = [600, 600, 600, 600, 600, 600]
+
+[theme.sidebar]
+backgroundColor = "#F3F1EA"
+secondaryBackgroundColor = "#FFFFFF"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true
