@@ -4,7 +4,8 @@ A Streamlit web app for a dealership that **buys second-hand cars, scooters and 
 Staff enter the seller's and vehicle's details on a dedicated page for each vehicle type,
 and the app returns an estimated market value and a suggested purchase offer. Every evaluation is saved for later review.
 
-![Home page](docs/home_page.png)
+<img width="1353" height="682" alt="image" src="https://github.com/user-attachments/assets/4b081332-817d-4708-96b7-3dbb1332ae8a" />
+
 
 ![Car purchase page](docs/car_page.png)
 
