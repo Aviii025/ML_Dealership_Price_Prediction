@@ -152,7 +152,6 @@ def render_footer() -> None:
         _CSS
         + f"""
 <footer class="jf">
-  <img class="jf__letter" src="{_data_uri(_SCRIPT_J_SVG)}" alt="" aria-hidden="true" />
   <div class="jf__card">
     <div class="jf__content">
       <p class="jf__kicker">Got a car, scooter or bike to sell?</p>
